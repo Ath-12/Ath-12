@@ -63,7 +63,10 @@ The tools are fast, but they make mistakes their own tests don't catch. In the S
 > We didn't have a website before. Mr. Atharva built one that looks professional and is easy to use on a phone. People have seen it and contacted us about solar installations. He also took care of the domain and our Google listing, so I didn't have to deal with the technical side.
 >
 > — Er. Dattatray Karkare, Founder, Sarvoday Enterprises (Sarvoday Solar Solutions)
- 
+
+> Before the CRM, our customers were spread across a big Excel file with many sheets, and it was hard to find anyone quickly. Mr. Atharva built us a simple CRM that works on our phones and shows us whom to call each day. Five people in our office use it now, and when we asked for changes after it went live, he made them the same day.
+>
+> — Er. Dattatray Karkare, Founder, Sarvoday Enterprises (Sarvoday Solar Solutions)
 ## Background
  
 - Bachelor of Engineering, Electrical Engineering (2022–2026)
