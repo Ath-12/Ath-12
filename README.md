@@ -9,7 +9,7 @@ I design the system, build it with AI tools, test it, launch it, and I can look 
 ## In numbers
  
 - **2** projects for my first client, both live and in use. He came back to hire me for the second.
-- **21** Excel sheets replaced by one CRM that **5** people in his office use.
+- **21** Excel sheets replaced by one CRM that people in his office use.
 - **280** customers moved into it: **304** rows read, **24** merged as duplicates, **1** skipped, nothing guessed.
 - **608** automated tests pass on the CRM, and I still found bugs they missed by testing every screen myself.
 ## Featured work
